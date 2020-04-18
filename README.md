@@ -38,9 +38,9 @@ Since there are important seasonal peaks in pollution levels, looking at overall
 
 The figures below show the conventration of NO2 and PM10 respectively since 2018 over time. Find detailed density plots of the NO2 and PM10 concentration per month over several years below.
 
-[no2](https://github.com/Bixi81/COVID19_airpollution/blob/master/no2_18_20.png)
+![no2](https://github.com/Bixi81/COVID19_airpollution/blob/master/no2_18_20.png)
 
-[pm10](https://github.com/Bixi81/COVID19_airpollution/blob/master/pm10_18_20.png)
+![pm10](https://github.com/Bixi81/COVID19_airpollution/blob/master/pm10_18_20.png)
 
 Regression results for [NO2 can be found here](https://github.com/Bixi81/COVID19_airpollution/blob/master/regression_no2.txt), for [PM10 here](https://github.com/Bixi81/COVID19_airpollution/blob/master/regression_pm10.txt).
 
