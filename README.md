@@ -1,4 +1,4 @@
-# COVID-19: Air pollution in Germany 
+# COVID-19: Air Pollution in Germany 
 
 *Last update: 18 April 2020*
 
