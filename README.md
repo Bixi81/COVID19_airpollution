@@ -68,6 +68,8 @@ Sicne there is (so far) no data available regarding the reduction of economic ac
 - R code for [data analysis](https://github.com/Bixi81/COVID19_airpollution/blob/master/luftmesswerte_uba.R)
 - R code for [plots](https://github.com/Bixi81/COVID19_airpollution/blob/master/luftmesswerte_uba_plots.R)
 
+**6. Additional Plots**
 
+![no2_monthly](https://github.com/Bixi81/COVID19_airpollution/blob/master/no2_monthly.png)
 
-DENSITY PLOTS
+![pm10_monthly](https://github.com/Bixi81/COVID19_airpollution/blob/master/pm10_monthly.png)
